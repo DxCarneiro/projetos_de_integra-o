@@ -1,0 +1,175 @@
+.body{
+    background-image: url(../IMG/PB-04.jpg);
+    background-size: 100%; 
+    background-attachment: fixed;
+}
+
+.dadostexto{
+    font-family: 'Hind Vadodara', sans-serif;
+    font-size: 15px;
+}
+.dados {
+    color:#3A5FCD;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+.dados2 {
+    color: #696969;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px
+}
+
+.dados3 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    float: center;
+    padding: 1px;
+}
+
+.img0 { 
+background-color: #E8E8E8;  
+background-image:url(../IMG/botãocliqueaqui.jpg);
+border: none;  
+background-size: 100%;
+background-color: #E8E8E8;  
+height: 51px;
+width: 180px;
+float: right;
+margin: 10px -10px px 0px;
+border-width: 0px;
+border-style: solid;
+border-color: #E8E8E8;
+}
+
+.img1 {
+  background-color: white;
+  border-radius: 50%;
+  object-fit: cover;
+  
+}
+
+
+.img2 {
+    float: left;
+    padding: 10px;
+    padding-bottom: 15%;
+    padding-top: 35px;
+}
+
+
+.button0 {
+border: none;
+height: 42px;
+width: 180px;
+border-width: 0px;
+border-style: solid;
+border:1px solid #E8E8E8;
+border-radius:4px;
+display:inline-block;
+cursor:pointer;
+font-family:Verdana;
+font-weight:bold;
+font-size:18px;
+padding:6px 10px;
+text-decoration:none;
+background-color: #E8E8E8;
+
+}
+
+.fa{
+padding: 15px;
+  font-size: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  margin-top: 160px;
+} 
+
+.fa:hover {
+    opacity: 0.7;
+}   
+
+.fa-facebook {
+        background: #3B5998;
+        color: white;
+    
+
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+
+}
+
+.borda0 {
+    height: 1300px;
+    width: 950px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 1px 1px 10px #000;
+    background-color: #CFCFCF;
+    background-image: "https://3.bp.blogspot.com/-kKYRpMEOMeE/XIAGRFbbrXI/AAAAAAAAIG4/uvZd8uUR8EMzz6SkHlMT3e2Lp77JwxCkACHMYCw/s1600/assasins-creed-4-hd-wallpaper-cool-stuff-assassins-creed.jpg";
+}
+
+.borda1 {
+    height: 550px;
+    width: 350px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#E8E8E8;
+    box-shadow: 1px 1px 10px black;
+    float: left;
+    margin: 5%;
+    margin-top: 3%;
+    background-color:#E8E8E8;
+
+}
+
+.borda2 {
+    height: 1000px;
+    width: 400px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #E8E8E8;
+    box-shadow: 1px 1px 10px black;
+    float: right;
+    margin: 5%;
+    margin-top: 3%;
+    background-color: #E8E8E8;
+}
+.borda3 {
+    height: 369px;
+    width: 350px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#E8E8E8;
+    box-shadow: 1px 1px 10px black;
+    float: left;
+    margin: 5%;
+    margin-top: 3%;
+    background-color: #E8E8E8;
+}
+.borda4 {
+    height: 150px;
+    width: 850px;
+    border-width: 2px;
+    border-style: solid;
+    border-color:#E8E8E8;
+    box-shadow: 1px 1px 10px black;
+    float: left;
+    margin: 5%;
+    margin-top: 3%;
+    background-color: #E8E8E8;
+}
